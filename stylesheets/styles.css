@@ -66,8 +66,8 @@ body {
   display: block;
   position: absolute;
   top:0;
-  right: 100px;
-  z-index: 10;
+  right: 10px;
+  z-index: 100;
   padding: 10px 50px 10px 10px;
   color: #fff;
   background: url('../images/blacktocat.png') #139740 no-repeat 95% 50%;
