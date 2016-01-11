@@ -57,6 +57,7 @@
 body {
   background-color: #fcfcfc;
   background-image: url("https://cloud.githubusercontent.com/assets/9874850/12247421/2833e4ac-b8b4-11e5-81dc-3cad81d2ba25.png");
+  background-repeat: repeat-x;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
