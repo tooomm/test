@@ -56,7 +56,6 @@
 
 body {
   background-color: #fcfcfc;
-  background-image: url("https://cloud.githubusercontent.com/assets/9874850/12247421/2833e4ac-b8b4-11e5-81dc-3cad81d2ba25.png");
   background-repeat: repeat-y;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -175,6 +174,7 @@ img {
 }
 
 header {
+  background-image: url("https://cloud.githubusercontent.com/assets/9874850/12247421/2833e4ac-b8b4-11e5-81dc-3cad81d2ba25.png");
   width:270px;
   float:left;
   position:fixed;
