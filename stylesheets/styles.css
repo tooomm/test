@@ -1,7 +1,7 @@
 /* chat */
 .gitter-chat-button{
   z-index:100;
-  x-index:5;
+  y-index:5;
   position:fixed;
   bottom:0;
   right:0;
