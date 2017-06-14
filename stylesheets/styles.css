@@ -3,8 +3,9 @@
   z-index:100;
   position:fixed;
   bottom:0;
-  right:10px;
+  right:0;
   left:0;
+  top:10px;
   padding:.4em .8em;
   background-color:#fc0062;
   border:0;
