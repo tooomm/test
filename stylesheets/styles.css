@@ -1,8 +1,8 @@
 /* chat */
 .gitter-chat-button{
-  z-index:10;
+  z-index:100;
   position:fixed;
-  bottom:0;
+  bottom:10;
   right:0;
   padding:.4em .8em;
   background-color:#fc0062;
