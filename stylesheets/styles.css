@@ -6,13 +6,12 @@
 }
 
 .gitter-chat-button,
-.gitter-chat-button:visited{
-  box-sizing:border-box;color:#fff}.app-chat-button:focus,.app-chat-button:hover{box-sizing:border-box;background-color:#2196f3;color:#fff}.app-chat-button:focus{box-sizing:border-box;box-shadow:0 0 8px rgba(62,160,127,.6);outline:0
-}
-
-.gitter-chat-button:active{
-  box-sizing:border-box;color:#eee}.app-chat-button.is-collapsed{box-sizing:border-box;-webkit-transform:translateY(120%);transform:translateY(120%)
-}
+.gitter-chat-button:visited{box-sizing:border-box;color:#fff}
+.gitter-chat-button:focus,
+.gitter-chat-button:hover{box-sizing:border-box;background-color:#2196f3;color:#fff}
+.gitter-chat-button:focus{box-sizing:border-box;box-shadow:0 0 8px rgba(62,160,127,.6);outline:0}
+.gitter-chat-button:active{box-sizing:border-box;color:#eee}
+.gitter-chat-button.is-collapsed{box-sizing:border-box;-webkit-transform:translateY(120%);transform:translateY(120%)}
 
 @font-face {
   font-family: 'Noto Sans';
